@@ -1,0 +1,8 @@
+- tab: "2sum"
+  testcases:
+    - expression: "sum(1, 2)"
+      return: 3
+    - expression: "sum(100, -100)"
+      return: 0
+    - expression: "sum(1000, 0)"
+      return: 1000

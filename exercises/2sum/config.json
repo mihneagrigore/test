@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Sum of 2 integers",
+      "nl": ""
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "c",
+  "access": "public"
+}
